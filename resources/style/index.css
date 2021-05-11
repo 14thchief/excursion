@@ -4,13 +4,31 @@ body{
     justify-content: center;
     text-align: center;
 }
-
+div{
+    margin: 10px;
+}
 .header{
     color: white;
     font-weight: normal;
     font-size: 50px;
 }
+.light-header{
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+.paragraph{
+    color: gray;
+    font-size: 21px;
+} 
+
+
 .download-link{
     color: aquamarine;
     font-size: 16px;
+}
+.footer{
+    text-align: right;
+    color: gray;
+    font-size: 20px;
 }
